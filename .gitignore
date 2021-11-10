@@ -1,0 +1,6 @@
+# Project exclude paths
+/api/target/
+/cloud-entity/target/
+/cloud-goods/target/
+/cloud-openfegin/target/
+/order/target/
